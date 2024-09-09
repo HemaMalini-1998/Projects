@@ -45,7 +45,7 @@ I'm an aspiring Data Scientist, passionate about extracting actionable business 
 
 You can view the projects in the files updated in the same repo.
 Other projects link:
-[Web Scraping](https://github.com/HemaMalini-1998/Projects.git)
+[Web Scraping](https://github.com/HemaMalini-1998/Webscraping_projects.git))
 
 📫 Reach me @hemamalini1998@gmail.com
 
