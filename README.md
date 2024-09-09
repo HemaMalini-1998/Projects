@@ -43,6 +43,7 @@ I'm an aspiring Data Scientist, passionate about extracting actionable business 
 
 - Process Optimization with end to end tracking of test samples in Casting department – Saint Gobain PCR
 
+You can view the projects in the files updated in the same repo.
 Other projects link:
 [Web Scraping](https://github.com/HemaMalini-1998/Projects.git)
 
